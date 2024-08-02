@@ -61,7 +61,7 @@ The dataset can be accessed at: `/content/drive/MyDrive/early-crop-weed-master/e
    
 ## Results
 
-- The model achieved an accuracy of `XX%` on the training set and `YY%` on the validation set after `ZZ` epochs.
+- The model achieved an accuracy of `91.29% ` on the training set and `79.55%` on the validation set after `15` epochs.
 - Predictions for test images are displayed along with their confidence scores.
 
 ## License
